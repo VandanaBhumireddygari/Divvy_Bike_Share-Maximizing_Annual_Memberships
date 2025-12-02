@@ -143,16 +143,11 @@ Even though electric bikes have lower volume, they attract riders who take longe
 
 # 💼 **Business Value Delivered**
 
-
-
----
-By implementing these recommendations, Divvy can:
-
-✅ Increase annual membership conversion rates
-✅ Improve profitability per rider
-✅ Better balance bike availability during peak hours
-✅ Optimize marketing spend by targeting high-potential users
-✅ Enhance customer satisfaction with tailored offerings
+* ✅ Increase annual membership conversion rates
+* ✅ Improve profitability per rider
+* ✅ Better balance bike availability during peak hours
+* ✅ Optimize marketing spend by targeting high-potential users
+* ✅ Enhance customer satisfaction with tailored offerings
 ---
 
 # 🛠️ **Tech Used**
