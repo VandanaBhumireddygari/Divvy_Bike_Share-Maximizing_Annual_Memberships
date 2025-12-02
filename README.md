@@ -1,17 +1,7 @@
-Got it.
-You want a **business-ready README** that includes:
 
-✔ **Visual sections** (with image placeholders)
-✔ **Short, clean explanations under each visual**
-✔ **Actual insights with values** (like PDF, but not overwhelming)
-✔ **Markdown formatting**
-✔ **Readable, aesthetic, portfolio-quality**
-
-Here is the **final polished README.md** you can copy directly into GitHub.
-
-You only need to replace the image links with your Tableau screenshots.
 
 ---
+
 
 # 🚴‍♀️ **Divvy Bike Share – Rider Behavior & Membership Growth Dashboard**
 
@@ -46,7 +36,7 @@ To answer this, the dashboard explores **bike type preference, time-of-day usage
 
 ## 🟠 **1. Bike Type Share**
 
-![Bike Type Share](ADD_IMAGE_LINK_HERE)
+![Bike Type Share]
 
 ### **What this tells us**
 
