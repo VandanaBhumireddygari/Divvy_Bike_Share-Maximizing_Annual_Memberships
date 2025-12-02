@@ -143,14 +143,16 @@ Even though electric bikes have lower volume, they attract riders who take longe
 
 # 💼 **Business Value Delivered**
 
-This dashboard helps Divvy:
 
-✔ Identify **which casual riders have membership-like behavior**
-✔ Launch **targeted promotions** at the right **time, place, and audience**
-✔ Improve **bike redistribution** based on predictable seasonal/hourly patterns
-✔ Build a **data-backed membership growth strategy**
-✔ Communicate insights visually across teams (Marketing, Strategy, Operations)
 
+---
+By implementing these recommendations, Divvy can:
+
+✅ Increase annual membership conversion rates
+✅ Improve profitability per rider
+✅ Better balance bike availability during peak hours
+✅ Optimize marketing spend by targeting high-potential users
+✅ Enhance customer satisfaction with tailored offerings
 ---
 
 # 🛠️ **Tech Used**
